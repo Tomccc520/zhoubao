@@ -6,26 +6,26 @@ export default function Footer() {
       <div>
         Powered by{" "}
         <a
-          href="https://openai.com/"
+          href="https://www.88sheji.cn/ai"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          OpenAI{" "}
+          AI导航{" "}
         </a>
         and{" "}
         <a
-          href="https://vercel.com/"
+          href="https://www.tomda.top/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          Vercel Edge Functions.
+          Tomda.
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://github.com/guaguaguaxia/weekly_report"
+          href="https://github.com/Tomccc520/zhoubao"
           className="group"
           aria-label="TaxPal on GitHub"
         >
